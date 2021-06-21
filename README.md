@@ -10,3 +10,7 @@ The visualizations of the data looked at can be seen [here](https://public.table
 
 [link to Tableau data visualizations](https://public.tableau.com/app/profile/david.a4605/viz/DANYCitibikeTableau/KeyOutcomesofAnalysis)
 
+
+
+![Chart](Resources/checkout.PNG)
+
